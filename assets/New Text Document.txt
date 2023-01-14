@@ -1,0 +1,616 @@
+index
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" herf="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Mark Roby</title>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo"> Mark <span> Roby </span> </a>
+        <nav class ="navigation">
+            <a href="#services" class="Services">Services</a>
+            <a href="#projects" class="Projects">Projects</a>
+            <a href="#contact" class="Contact">Contact</a>
+        </nav>
+    </header>
+
+
+    <section class ="main">
+        <div>
+            <h2>Hello,I'm Mark <br><span>programmer</span></h2>
+            <h3>I Make The Life Easy To Use </h3>
+            <a href="#projects" class="main-btn"> View My Work </a>
+            <div class="social-icons">
+                <a href="#"> <img src="instagram.png" width="30px" height="30px" > </a>
+                <a href="#"> <i class="fab fa-instagram"></i> </a>
+            </div>
+        </div>
+
+    </section>
+
+
+    <section class="cards" id="services">
+        <h2 class="title">Services</h2>
+        <div class="content">
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-computer-classic"></i>
+                </div>
+                <div class="info">
+                    <h3>programing</h3>
+                    <p>Learning arbitrary coding concepts can get boring after some time.
+                         To keep your motivation up, think of all the things you’ve always wanted to create. Then use your newfound coding skills to make them happen.
+                         Just don’t forget to start with the simplest version possible.
+                          You can then work your way up from there.</p>
+
+                </div>
+            </div>
+
+           
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-image"></i>
+                </div>
+                <div class="info">
+                    <h3>photoshop</h3>
+                    <p>As we navigate a world of dramatic changes,
+                         we are confronted with unanticipated challenges and questions about how to best protect and support those we love.
+                         Just as important, though, 
+                         is determining how to effectively deal with all the emotions we’re experiencing ourselves.</p>
+
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-image"></i>
+                </div>
+                <div class="info">
+                    <h3>website</h3>
+                    <p>It likely won’t come as a surprise that doing something for its own sake and for your own purposes
+                         is likely to be more fulfilling,
+                         enjoyable, and successful than doing something to meet external standards or to please others.</p>
+
+                </div>
+            </div>
+
+
+        </div>
+
+
+    </section>
+
+
+    <section class="projects" id="projects">
+
+        <h2 class="projects-titles"> projects</h2>
+        <div class="content">
+            <div class="projects-card">
+                <div class="projects-image">
+                    <img src="openproject-1.jpg">
+                </div>
+                <div class="projects-info">
+                    <p class="projects-category"> writing c#</p>
+                    <strong class="projects-title">
+                        <span>APP with windows form </span>
+                        <a href="#" class="more-details">More details</a>
+
+                    </strong>
+                </div>
+            </div>
+
+            <div class="projects-card">
+                <div class="projects-image">
+                    <img src="FmQLw.png">
+                </div>
+                <div class="projects-info">
+                    <p class="projects-category"> writing c++</p>
+                    <strong class="projects-title">
+                        <span>program</span>
+                        <a href="#" class="more-details">More details</a>
+
+                    </strong>
+                </div>
+            </div>
+
+            <div class="projects-card">
+                <div class="projects-image">
+                    <img src="Screenshot (60).png">
+                </div>
+                <div class="projects-info">
+                    <p class="projects-category"> writing css</p>
+                    <strong class="projects-title">
+                        <span>shanab with css </span>
+                        <a href="index2.html" class="more-details">More details</a>
+
+                    </strong>
+                </div>
+            </div>
+            <div class="projects-card">
+                <div class="projects-image">
+                    <img src="Screenshot (60).png">
+                </div>
+                <div class="projects-info">
+                    <p class="projects-category"> writing css</p>
+                    <strong class="projects-title">
+                        <span>Draw Pokemon with css </span>
+                        <a href="index3.html" class="more-details">More details</a>
+
+                    </strong>
+                </div>
+            </div>
+            <div class="projects-card">
+                <div class="projects-image">
+                    <img src="Screenshot (60).png">
+                </div>
+                <div class="projects-info">
+                    <p class="projects-category"> writing And HTML css</p>
+                    <strong class="projects-title">
+                        <span>music with css </span>
+                        <a href="index4.html" class="more-details">More details</a>
+
+                    </strong>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="cards contact" id="contact">
+        <h2 class="title">Let's Work Together</h2>
+        <div class="content">
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-phone-alt"></i>
+                </div>
+                <div class="info">
+                    <h3>Phone</h3>
+                    <p>01033038532</p>
+
+                </div>
+            </div>
+
+           
+            <div class="card">
+                <div class="icon">
+                    <i class="fas fa-envelope"></i>
+                </div>
+                <div class="info">
+                    <h3>Email</h3>
+                    <a href="mroby4817@gmail.com">mroby4817@gmail.com</a>
+
+                </div>
+            </div>
+
+           
+
+        </div>
+
+
+
+
+    </section>
+
+    <footer class="footer">
+        <p class="footer-title">Copyrights @  <span>  Mark Roby</span></p>
+        <div class="social-icons" >
+            <a href="#" > <img src="instagram.png" width="30px" height="30px" > </a>
+            <a href="#"> <i class="fab fa-instagram"></i> </a>
+        </div>
+
+    </footer>
+
+
+
+    
+</body>
+</html>
+
+
+
+
+//================================================================
+
+style 
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+header {
+    background-color:#1a1a1a ;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 200px;
+    ;
+}
+
+
+
+.logo{
+    text-decoration: none;
+    color:aliceblue;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8em;
+}
+
+.logo span{
+    color: aqua;
+}
+
+.navigation a{
+    text-decoration: none;
+    color:aliceblue;
+ /*   text-transform: uppercase;*/
+    font-weight: 500;
+    font-size: 1.1em;
+    padding-left: 30px;
+    transition: 0.7s ease
+
+}
+.navigation a:hover{
+
+    color: #a0a0a0;
+ /*   background-color: #0e0d0d ;
+    transform: scale(1.1)*/
+} 
+/*
+.navigation a Services:hover{
+    background-color: #0e0d0d ;
+    transform: scale(1.1)
+}
+*/
+section{
+    padding: 100px 200px;
+}
+.main{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(images/b7ce098ed21df0029ea9f77847e36f9e.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+
+.main h2{
+    color: aliceblue;
+    font-size: 1.4em;
+    font-weight: 500;
+}
+.main h2 span{
+    display: inline-block;
+    margin-top: 10px;
+    color: #80c7d0;
+    font-size: 3em;
+    font-weight: 800;
+}
+
+.main h3{
+    color: aliceblue;
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.main-btn{
+    color: aliceblue;
+    background-color:  #80c7d0;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.9375em 2.1875em ;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    transition: 0.7s ease;
+}
+
+.main-btn:hover{
+    background-color: #3e9ba8 ;
+    transform: scale(1.1);
+
+}
+
+/*
+.social-icons {
+    color: antiquewhite;
+    font-size: 0.2rem;
+    padding-right: 10px;
+}
+*/
+.social-icons a{
+    color: antiquewhite;
+    font-size: 0.2rem;
+    padding-right: 10px;
+}
+
+
+.title{
+    display: flex;
+    justify-content: center;
+    color: #1a1a1a;
+    font-size: 2.2em;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+
+.content {
+  display: flex; 
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap; 
+ 
+}
+
+
+.card {
+background-color: aliceblue;
+width: 21.25em;
+box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+border-radius: 10px;
+padding: 25px;
+margin: 15px;
+transition: 0.7s ease;
+}
+
+
+.card:hover{
+    transform: scale(1.1);
+
+}
+
+.icon {
+    color: #1a1a1a;
+    font-size: 8em;
+    text-align: center;
+}
+
+.info {
+    text-align: center;
+}
+
+.info h3 {
+    color: #1a1a1a;
+    font-size: 1.2em;
+    font-weight: 700;
+    margin: 10px;
+   /* text-align: center;*/
+
+}
+
+
+.projects{
+    background-color:#1a1a1a;
+    
+}
+
+.projects-titles{
+    display: flex;
+    justify-content: center;
+    font-size: 2.2em;
+    font-weight: 800;
+    margin-bottom: 30px;
+    color: aliceblue;
+}
+
+.projects.content{
+    margin-top: 30px;
+
+
+}
+
+.projects-card {
+    background-color:aliceblue ;
+    border-radius:1px solid aliceblue ;
+    min-height: 14em;
+    width: 23em;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 20px;
+    transition: 0.7s ease;
+}
+
+.projects-card:hover {
+    transform: scale(1.1);
+}
+
+
+.projects-card:hover .projects-image {
+    opacity: 0.9 ;
+}
+
+.projects-image img {
+    width: 100%;
+}
+
+
+.projects-info {
+    padding: 1em;
+
+}
+
+.projects-category {
+    font-size: 0.8em;
+    color: #1a1a1a;
+}
+
+.projects-title {
+    display: flex;
+    justify-content: space-between;
+    text-transform: capitalize;
+    font-weight: 800;
+    margin-top: 10px;
+
+}
+
+
+.more-details {
+    text-decoration: none;
+    color: #383838;
+}
+
+.more-details:hover {
+    color: #1a1a1a;
+}
+
+
+
+.contact .icon {
+    font-size: 4.5em;
+
+}
+
+.contact .info h3 {
+    color: #1a1a1a;
+}
+
+.contact .info a {
+  /*  text-decoration: none;
+    color: #1a1a1a;*/
+/*
+    text-decoration: none;
+    color:black;*/
+ /*   text-transform: uppercase;*/
+  /*  font-weight: 500;
+    font-size: 1.1em;
+    padding-left: 30px;
+    transition: 0.7s ease*/
+    text-decoration: none;
+    color: #383838;
+
+}
+
+.contact .info a :hover{
+    transform: scale(1.1);
+    color: black;
+}
+
+
+.contact.info p {
+    font-size: 1.5em;
+    
+}
+
+
+.contact.info p :hover{
+    color: #000000
+}
+
+
+.footer {
+    background-color: #1a1a1a;
+    color: aliceblue;
+    padding: 2em;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.footer-title {
+    font-size: 1.3em;
+    font-weight: 600;
+}
+
+
+.footer-title span {
+    color: #3f4368;
+    
+}
+
+
+@media(max-width :1023px){
+    header{
+        padding: 12px 20px;
+
+    }
+
+    .navigation a {
+        padding-left: 10px;
+
+    }
+
+    .title {
+        font-size: 1.8em;
+    }
+
+
+    .section {
+        padding: 80px 20px;
+    }
+
+    .main-content h2{
+        font-size: 1em;
+
+    }
+
+    .main-content h3 {
+        font-size: 1.6em;
+
+    }
+
+    .content{
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+
+}
+
+@media(max-width:641px){
+    body{
+        font-size: 12px;
+    }
+
+    .main-content h2 {
+        font-size: 1.4em;
+    }
+
+
+}
+
+
+@media(max-width:300px){
+
+    body{
+        font-size: 10px;
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
